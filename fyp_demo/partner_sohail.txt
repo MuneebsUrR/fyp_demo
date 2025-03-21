@@ -1,4 +1,7 @@
-this is the intorduction file of partner sohail
+intorduction of sohail
+Welcome to RethinkVC!
 
-Sohail is a skilled technology enthusiast with a keen interest in business development and digital transformation. He specializes in strategizing and scaling tech-driven startups, ensuring smooth operations and sustainable growth. With a problem-solving mindset, Sohail focuses on bridging the gap between technology and business, helping companies leverage digital solutions for success. His vision is to create scalable and user-friendly products that cater to a global audience.
-dfdsfd
+This pad text is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents!
+Warning: DirtyDB is used. This is not recommended for production. -- To suppress these warning messages change suppressErrorsInPadText to true in your settings.json
+
+make dkhglkdhfs 
